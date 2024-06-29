@@ -29,9 +29,6 @@ Feel free to explore the provided links to learn more about each technology. �
 
 ## Installation ⬇️
 
-### Follow these steps to get the project up and running 🏗️
-
-1. Download or clone the project.
 2. Install the dependencies by running `npm install`.
 3. Start the local blockchain using Hardhat by running `npx hardhat node`.
 4. Open new terminal and deploy the Bank contract `npx hardhat run --network localhost scripts/deploy.js`.
